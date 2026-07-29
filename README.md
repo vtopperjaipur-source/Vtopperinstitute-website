@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Ajit Royd] 👋
 
 > Crafting delightful software and solving meaningful problems — I build web apps, developer tools, and open-source libraries.
 
