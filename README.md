@@ -67,7 +67,7 @@ I enjoy contributing to open-source and writing about engineering topics:
 ---
 
 ## 📫 Contact
-- Email: you@domain.com
+- Email: Vtopperjaipur@gmail.com
 - Website: https://your-website.com
 - LinkedIn: https://linkedin.com/in/yourprofile
 - Twitter: https://twitter.com/yourhandle
